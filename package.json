@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-bignumber",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Nando Vieira",
+  "description": "ESlint rule to enforce BigNumber instead of parseFloat",
+  "asdf": "https://github.com/fnando/eslint-plugin-bignumber",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bignumber",
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
